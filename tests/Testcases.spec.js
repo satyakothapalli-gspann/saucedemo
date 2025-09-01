@@ -14,4 +14,8 @@ test('@run Entire Flow', async ({ page,launchApplication,loginPage,productPage,c
 
 })
 
+test ('default',async({page})=>{
+    
+})
+
 
